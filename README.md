@@ -1,2 +1,2 @@
-# hist-rico_olimpiadas
+# histórico_olimpiadas
 Uma breve análise sobre o histórico de medalhas das olimpiadas
